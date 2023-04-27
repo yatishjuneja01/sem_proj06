@@ -1,0 +1,1 @@
+filter here basically means that i took the peaks whose height is greater than equal to 0.3 and distance between adjacent peaks should correspond to atleast 1000 timesteps which is 0.05seconds
